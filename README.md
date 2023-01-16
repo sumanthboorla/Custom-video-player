@@ -12,3 +12,4 @@ Where we have features like:
 
 5)Adjust Speed of Video.
 
+Live Demo link: https://sumanthboorla.github.io/Custom-video-player/
